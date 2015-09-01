@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1306C8F7-6B29-44F6-8754-D4D0668F1116</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7534C4CC7C62CE7D666665D8A919DE88C8642DEA</key>
+		<string>https://github.com/POACMG/TipApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TipApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7534C4CC7C62CE7D666665D8A919DE88C8642DEA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/POACMG/TipApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7534C4CC7C62CE7D666665D8A919DE88C8642DEA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7534C4CC7C62CE7D666665D8A919DE88C8642DEA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TipApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
